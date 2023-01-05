@@ -1,14 +1,4 @@
-
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando react, vue e next
-<div align="center">
-  <a href="https://github.com/macielsevilha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielsevilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielsevilha&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
- ##
+##
   
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maciel</h1>
 <h3 align="center">Estou sempre em busca de novos conhecimentos e aperfeiçoar se minhas habilidades por esse motivo amo minha profissão.</h3>
